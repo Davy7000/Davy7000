@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twilight x
 - 👀 I’m interested in ... programmation 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... la programmation web
 - 💞️ I’m looking to collaborate on ... un site web ou un bot 
 - 📫 How to reach me mouketoudavy6@gmail.com /+242050336960
 - 😄 Pronouns: ...
